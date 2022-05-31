@@ -1,3 +1,3 @@
 # infinity-slider
 
-#Create an infinity slide
+# Create an infinity slide
